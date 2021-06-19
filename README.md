@@ -1,6 +1,6 @@
 # TasksApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+Task Tracker App made with Angular 12
 
 ## Development server
 
